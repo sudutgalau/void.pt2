@@ -5,8 +5,7 @@ River Was Filled With Stories; you and your mercurial passions: fall flowers tha
 
 
 an Installation by:
-Agus Novianto
 
-Hendrawan Ariwibowo
+Creative & Technical Direction | Visual | Programming : Agus Novianto
 
-Siti Karwati Barzia
+Device | Hardware : Hendrawan Ariwibowo, Siti Karwati Barzia
